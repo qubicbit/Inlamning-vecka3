@@ -1,0 +1,18 @@
+1.Vad visste du om mjukvaruutveckling innan kursen – och vad vet du nu?
+Att man sitter vid datorn och skriver kod. Nu vet jag att kodning är en liten del av själva utvecklingen.
+
+2.Vad betyder “DevOps” för dig? Hur skulle du förklara det till en kompis?
+Devops är själva processen från ide til en färdig produkt (man jobbar med Agila metoden). Det ska planeras, genomföras och levereras. I planeringsdelen sätter man upp kravspecifiation, systemdesign.
+följt efter ska det också implementeras, kodas och testas. Och slutligen ska produkten leverreras och underhållas. 
+
+3.Hur tänker du kring molnet? Vad känns spännande – och vad känns svårt?
+molnet gör det möjligt att lagra data, köra olika applikationer och tjänster på remote istället för på sin egen dator
+vad som är spännande är att det är väldigt stort. Man behöver inte ha tillgång till egen hårdvara för att kunna köra ett köra program.
+just nu känns det svårt att förstå alla de olika tjänster som finns i molnet och hur de fungerar.
+
+4.Vad innebär det att vara en systemutvecklare i ett team?
+Att arbeta tillsammans med t.ex. andra utvecklare, designers, testare och produktägare. Rollen innefattar tekniskt ansvar (inte bara skriva kod)
+teamarbet och anvar för hela utvekligensprocessen.
+
+5. Vad har varit mest intressant under kursens tre veckor?
+De senaste veckorna har git/Github varit mest intressant följt av visual studio.

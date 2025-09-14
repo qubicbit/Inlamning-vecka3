@@ -1,0 +1,26 @@
+1.Vad är skillnaden mellan IaaS, PaaS och SaaS?
+
+skillnaden mellan de tre olika molntjänsterna är vilket form av service de erbjuder. 
+i t.ex. IaaS (Infrastructure as a Service) hyr man rå resurser så som servrar, nätverk, lagring, etc. 
+Här har du mest kontroll, och mest ansvar.
+
+i PaaS hyr man en plattform för att utveckla, köra och hantera applikationer utan att behöva hantera den underliggande infrastrukturen.
+det gör att man har balans mellan kontroll och enkelhet.
+SaaS (Software as a Service), då hyr man en färdigt applikation exempel office 365, vilket ger minst kontroll men mest enklast att använda
+
+2.Vad gör Git och vad är GitHub? 
+Git är själva versionshanteringsprogrammet (verktyget) och körs lokalt på datorn, kan användas offline
+Medans GitHub (molnplattform) är online och hanterar git-repon
+
+3.Vad är ett informationssystem?
+Ett informationssystem är en kombination av människor, teknik och rutiner som används för att samla in, 
+lagra, bearbeta och förmedla information så att verksamheter kan arbeta effektivt och fatta beslut.
+
+4.Vad är CIA-triaden?
+en modell som används i säkerket i molnet och informationssystem. Modellen består av tre delar:
+confidentiality (sekretess) -bara rätt personer har tillgång till informationen
+integrity (integritet) - informationen/datan ska inte förändras av misstag eller attacker 
+availability (tillgänglighet) - informationen ska vara tillgånglig när den behövs
+
+5.Vad är Continuous Integration (CI)? 
+Ett Agilt arbetssätt där varje gång man gör en ändring i koden (pushar) så ska det testas automatiskt
