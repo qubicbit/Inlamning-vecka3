@@ -23,4 +23,4 @@ integrity (integritet) - informationen/datan ska inte förändras av misstag eller
 availability (tillgänglighet) - informationen ska vara tillgånglig när den behövs
 
 5.Vad är Continuous Integration (CI)? 
-Ett Agilt arbetssätt där varje gång man gör en ändring i koden (pushar) så ska det testas automatiskt
+Ett Agilt arbetssätt där varje gång man gör en ändring i koden (pushar) så ska det testas automatiskt.
