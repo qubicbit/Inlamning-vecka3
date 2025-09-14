@@ -1,18 +1,18 @@
-1.Vad visste du om mjukvaruutveckling innan kursen – och vad vet du nu?
-Att man sitter vid datorn och skriver kod. Nu vet jag att kodning är en liten del av själva utvecklingen.
+ï»¿1.Vad visste du om mjukvaruutveckling innan kursen â€“ och vad vet du nu?
+Att man sitter vid datorn och skriver kod. Nu vet jag att kodning Ã¤r en liten del av sjÃ¤lva utvecklingen.
 
-2.Vad betyder “DevOps” för dig? Hur skulle du förklara det till en kompis?
-Devops är själva processen från ide til en färdig produkt (man jobbar med Agila metoden). Det ska planeras, genomföras och levereras. I planeringsdelen sätter man upp kravspecifiation, systemdesign.
-följt efter ska det också implementeras, kodas och testas. Och slutligen ska produkten leverreras och underhållas. 
+2.Vad betyder â€œDevOpsâ€ fÃ¶r dig? Hur skulle du fÃ¶rklara det till en kompis?
+Devops Ã¤r sjÃ¤lva processen frÃ¥n ide til en fÃ¤rdig produkt (man jobbar med Agila metoden). Det ska planeras, genomfÃ¶ras och levereras. I planeringsdelen sÃ¤tter man upp kravspecifiation, systemdesign.
+fÃ¶ljt efter ska det ocksÃ¥ implementeras, kodas och testas. Och slutligen ska produkten leverreras och underhÃ¥llas. 
 
-3.Hur tänker du kring molnet? Vad känns spännande – och vad känns svårt?
-molnet gör det möjligt att lagra data, köra olika applikationer och tjänster på remote istället för på sin egen dator
-vad som är spännande är att det är väldigt stort. Man behöver inte ha tillgång till egen hårdvara för att kunna köra ett köra program.
-just nu känns det svårt att förstå alla de olika tjänster som finns i molnet och hur de fungerar.
+3.Hur tÃ¤nker du kring molnet? Vad kÃ¤nns spÃ¤nnande â€“ och vad kÃ¤nns svÃ¥rt?
+molnet gÃ¶r det mÃ¶jligt att lagra data, kÃ¶ra olika applikationer och tjÃ¤nster pÃ¥ remote istÃ¤llet fÃ¶r pÃ¥ sin egen dator
+vad som Ã¤r spÃ¤nnande Ã¤r att det Ã¤r vÃ¤ldigt stort. Man behÃ¶ver inte ha tillgÃ¥ng till egen hÃ¥rdvara fÃ¶r att kunna kÃ¶ra ett kÃ¶ra program.
+just nu kÃ¤nns det svÃ¥rt att fÃ¶rstÃ¥ alla de olika tjÃ¤nster som finns i molnet och hur de fungerar.
 
-4.Vad innebär det att vara en systemutvecklare i ett team?
-Att arbeta tillsammans med t.ex. andra utvecklare, designers, testare och produktägare. Rollen innefattar tekniskt ansvar (inte bara skriva kod)
-teamarbet och anvar för hela utvekligensprocessen.
+4.Vad innebÃ¤r det att vara en systemutvecklare i ett team?
+Att arbeta tillsammans med t.ex. andra utvecklare, designers, testare och produktÃ¤gare. Rollen innefattar tekniskt ansvar (inte bara skriva kod)
+teamarbet och anvar fÃ¶r hela utvekligensprocessen.
 
 5. Vad har varit mest intressant under kursens tre veckor?
-De senaste veckorna har git/Github varit mest intressant följt av visual studio.
+De senaste veckorna har git/Github varit mest intressant fÃ¶ljt av visual studio.
